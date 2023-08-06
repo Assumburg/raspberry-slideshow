@@ -17,7 +17,7 @@ schedule.every().friday.at("19:30").do(reboot)
 schedule.every().sunday.at("12:00").do(reboot)
 
 try:
-	sleep(8)
+    sleep(8)
     showSlides()
     while(True):
         schedule.run_pending()
