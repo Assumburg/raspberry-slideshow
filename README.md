@@ -14,9 +14,8 @@ Ada asked me to provide a guide on how to setup the slideshow that we have at ou
 - Create a new slideshow
 - Change the slideshow with whatever you want to show to the people
 
-- Go to file/bestand > Share/delen > Publish on the internet
-  _Because the raspberry pi needs to load the sldies remotely, it needs to be published on the internet. This also means that anyone in the world could view this slideshow (if they get a hold of the link). So make sure there is no personal data on the slides_
-- Set the timer for how long a slide needs to be shown (we set 15 seconds)
+- Go to file/bestand > Share/delen > Publish on the internet - _Because the raspberry pi needs to load the slides remotely, it needs to be published on the internet. This also means that anyone in the world could view this slideshow (if they get a hold of the link). So make sure there is no personal data on the slides_
+- Set the timer for how long a slide needs to be shown (we used 15 seconds)
 - Check the boxes for "start on load" and "restart on last slide"
 - Hit publish
 - Keep the page with the link open
